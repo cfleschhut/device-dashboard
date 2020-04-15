@@ -1,0 +1,13 @@
+.header {
+  margin: 0 0 1em;
+  padding: 0 0 1em;
+  border-bottom: 1px solid #eee;
+}
+
+.header-tagline h1 {
+  margin: 0 0 1em;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+}
